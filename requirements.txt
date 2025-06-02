@@ -15,6 +15,6 @@ librosa>=0.10.0
 # Weights & Biases for logging
 wandb>=0.16.0
 
-ensure compatible with your PyTorch version
-# torchvision==<match-your-pytorch-version>
-# torchaudio==<match-your-pytorch-version>
+# ensure compatible with your PyTorch version
+torchvision==<match-your-pytorch-version>
+torchaudio==<match-your-pytorch-version>
